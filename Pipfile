@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 dash-bootstrap-components = "*"
+numpy = "*"
 
 [dev-packages]
 
